@@ -153,9 +153,13 @@ AI is an engineering accelerator in my workflow — backed by **software design,
 | **iOS Developer** | Rekab | 2018–2019 |
 | **iOS Developer** | Shatel | 2017–2018 |
 | **iOS Developer** | RaadSense | 2017–2018 |
-| **Backend / Software Developer** | Early career · C# / .NET / ASP.NET | Before 2017 |
+| **Back-end Developer** | Parham Co. | 2016–2017 |
+| **Back-end Developer** | Fidilio | 2015–2016 |
+| **Software Engineer** | Barsam | 2014–2015 |
 
-Before specializing in iOS, I worked on backend and web software using **C#, .NET, ASP.NET MVC / Web API, SQL-backed systems, APIs, and application business logic**. That early backend work remains a core part of how I approach architecture and end-to-end product engineering today.
+Before specializing in iOS, I worked across backend, web, and product engineering. At **Parham Co.**, I built ASP.NET Web API services for SMS-based value-added services and mobile applications, plus ASP.NET MVC administration panels and websites. At **Fidilio**, I developed backend systems and APIs for its restaurant and venue directory. At **Barsam**, a tourism startup, I worked as a software developer and project manager.
+
+That background still shapes how I approach APIs, system boundaries, product architecture, and end-to-end software delivery today.
 
 ### Selected engineering domains
 
