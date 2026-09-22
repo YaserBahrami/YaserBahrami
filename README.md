@@ -1,95 +1,135 @@
-# About me
-<aside>
-I am a senior iOS developer with over a decade of experience in software development. Throughout my career, I have developed an extensive range of iOS, tvOS, and iPadOS applications both individually and as part of successful collaborative teams. My proficiency in Swift has allowed me to deliver reliable features while applying clean code practices and design patterns, resulting in readable, maintainable, and scalable code.
+# Yaser Bahrami
 
-</aside>
+**Senior Software Engineer · iOS · Backend · AI & Software Architecture**
 
-# Experience
+I’m a T-shaped software engineer with **10+ years of experience** across mobile, backend, software architecture, real-time systems, SDKs, CI/CD, and product development.
 
-### **Senior iOS Developer**
+I started my career on the backend with **C# / .NET / ASP.NET**, then specialized deeply in Apple-platform development from 2017 onward. Today, most of my work sits at the intersection of **iOS engineering, architecture, product development, backend integration, and AI-assisted software development**.
 
-***Freelancer**, Istanbul, Turkey – (Sep 2020 - Present)*
+Based in **Istanbul, Türkiye**.
 
-- Collaborated with multiple stakeholders to deliver reliable features, while applying clean code practices and design patterns, to develop readable, maintainable, and scalable code.
-- Developed iOS and tvOS apps for streaming video content and live streaming, using RXSwift, MVVM, and Coordinator patterns, and implemented Google IMA DAI.
-- Built reusable components, libraries, and SDKs.
-- Developed and maintained a scalable fashion e-commerce iOS app. Implemented a video call feature using Twilio and WebSockets while ensuring high-quality software and meeting deadlines.
-- Developed iOS applications with NFC capabilities, as well as OpenCV and Vision for real-time image processing.
-- Conducted code reviews to ensure the quality of codebases.
-
-### Senior iOS Developer
-
-***Turkuaz Media Digital**, Istanbul, Turkey – (Feb 2020 - Sep 2020)*
-
-- Contributed to developing a Swift-based infrastructure that enables efficient and effective creation of new applications by building reusable components, libraries, and SDKs.
-- Developed a dynamic data model and business logic that modifies the entire application using a JSON file and server-side remote configuration.
-- Focused on resolving technical issues and enhancing the code for greater testability and scalability
-- Conducted code reviews to ensure the quality of the code
-
-### Senior iOS Developer
-
-***MeshAI**, Ontario, Canada – (Nov 2018 - Jan 2020) - Remote Contract*
-
-- Refactored an old legacy code-base
-- Maintained and improved application performance
-- Wrote fully testable codes for Unit and UI tests
-- Implemented a CI/CD process using Bitrise for automated testing and deployment to ensure the quality of the code and streamline the development process
-
-### iOS Developer
-
-***Rekab**, Montreal, Canada – (Jul 2018 - Jan 2019) - Remote Contract*
-
-- Contributed to the development of a carpooling application for iOS using MVVM, RxSwift, and coordinator.
-- Designed and implemented a mobile database using Realm.
-- Utilized design patterns throughout the development process to ensure that the codebase was readable, maintainable, and scalable.
-
-### iOS Developer
-
-***Shatel**, Tehran, Iran – (Nov 2017 - Jul 2018)*
-
-- Contributed to the development of the Namava VOD iOS and tvOS applications using MVVM and RxSwift.
-- In charge of developing the File Hosting iOS application and designing and implementing the networking layer for transferring large files.
-
-### iOS Developer
-
-***RaadSense**, Tehran, Iran – (Mar 2017 - Nov 2018)*
-
-- Contributed to the development of the mPos and mobile payments iOS application
-- Building reusable components, libraries, and SDKs.
+[Portfolio](https://bahrami.dev) · [Projects](https://bahrami.dev/projects) · [LinkedIn](https://www.linkedin.com/in/yaserbahrami)
 
 ---
 
-# Skills
+## What I work with
 
-- Frameworks: UIKit, RxSwift, XCTest, XCUITest, AVFoundation, Core ML, Vision, Core Location, Core Bluetooth
-- Architectures: MVC, MVVM, Coordinator pattern
-- Tools: Firebase, AWS, GraphQL, Analytics, Alamofire, Moya, Snapkit
-- Databases: Realm, CoreData, SQLite
+### Apple platforms
+
+- **Swift 6**, SwiftUI, UIKit
+- iOS, iPadOS, tvOS
+- Structured Concurrency / async-await, Combine, RxSwift
+- AVFoundation, HLS and live/video streaming
+- FamilyControls, DeviceActivity, ManagedSettings
+- Core ML, Vision, OpenCV, NFC
+- XCTest, XCUITest
+
+### Architecture & engineering
+
+- Clean Architecture, MVVM, MVVM-C / Coordinator
+- SOLID, dependency injection, modular and reusable components
+- SDK and framework development
+- REST, GraphQL, WebSockets and real-time systems
+- Performance profiling, legacy modernization and large-codebase refactoring
+- CI/CD with Bitrise, Fastlane and GitHub Actions
+
+### Data, cloud & backend
+
+- SwiftData, Core Data, Realm, SQLite
+- CloudKit and iCloud sync
+- Firebase and AWS integrations
+- C#, ASP.NET Web API / MVC
+- Python for tooling, services and automation
+
+### AI-assisted development
+
+I actively use **LLMs and agentic development workflows** for implementation, architecture exploration, debugging, refactoring, test generation, documentation, code review, and technical decision-making.
+
+I treat AI as an engineering accelerator rather than a substitute for software design, verification, testing, and maintainability.
 
 ---
 
-# Languages
+## Current product work
 
-**************English**************
+I build and ship independent products across productivity, media, personal finance, lifestyle, and utilities. My current apps are designed for **iPhone and iPad**.
 
-Fluent
+### [NextOn](https://nexton.watch)
 
-**************Turkish**************
+A TV and movie tracker focused on upcoming releases, personal libraries, discovery, recommendations, and cross-device sync.
 
-Fluent
+**Engineering:** Swift, SwiftUI, CloudKit, TMDB integrations, recommendation systems, performance optimization.
 
-**********************Azerbaijani**********************
+### MealoMarket
 
-Native
+A meal-planning and kitchen-organization app that connects weekly planning, shopping lists, pantry/fridge/freezer inventory, expiration tracking, and household sharing.
 
-**********Farsi**********
+**Engineering:** Swift, SwiftUI, SwiftData, iCloud sync/sharing, native Apple-platform UX.
 
-Native
+### TimeBuddy
+
+A time-zone comparison and meeting-planning app designed to make differences between cities immediately understandable.
+
+**Engineering:** Swift, SwiftUI, date/time calculation, localization, timeline-based planning.
+
+### LevelOff
+
+A screen-time reduction and focus app built around intentional sessions, routines, progress, and healthier device-use habits.
+
+**Engineering:** FamilyControls, DeviceActivity, ManagedSettings, App Groups, SwiftData, privacy-preserving system APIs.
+
+Other active product work includes **Penny** and **Humay**.
+
+See more at **[bahrami.dev/projects](https://bahrami.dev/projects)**.
 
 ---
 
-# Education
+## Experience highlights
 
-### **K.N Toosi University of Technology**
+My professional work has covered:
 
-**Bachelor of Science (BS), Computer Engineering -** (2011-2017)
+- Large-scale **live sports and video streaming**
+- VOD and tvOS products
+- Fashion e-commerce
+- Carpooling and location-aware applications
+- mPOS and mobile payments
+- NFC-enabled applications
+- Computer vision with OpenCV and Vision
+- Twilio/WebSocket real-time communication
+- Reusable SDKs, libraries and app infrastructure
+- Backend/API development and integration
+- Technical leadership, code review and engineering management
+
+### Recent roles
+
+- **Engineering Manager — TouchZen Media** · 2025–2026
+- **Senior iOS Developer — Saba Idea** · 2025–2026
+- **Independent Senior iOS Developer / Consultant** · 2020–2025
+- **Senior iOS Developer — Turkuvaz Media Digital** · 2020
+- **Senior iOS Developer — MeshAI** · 2018–2020
+- **iOS Developer — Rekab** · 2018–2019
+- **iOS Developer — Shatel** · 2017–2018
+- **iOS Developer — RaadSense** · 2017–2018
+
+Before specializing in iOS, I worked in backend/software development with **C# and ASP.NET**.
+
+---
+
+## Languages
+
+- Azerbaijani — Native
+- Farsi — Native
+- English — Fluent
+- Turkish — Fluent
+
+---
+
+## Education
+
+**B.Sc. Computer Engineering**  
+K. N. Toosi University of Technology · 2011–2017
+
+---
+
+## Focus
+
+I’m most interested in work where I can combine deep mobile expertise with broader software-engineering responsibilities: **architecture, backend integration, performance, developer experience, AI-enabled workflows, and product ownership**.
