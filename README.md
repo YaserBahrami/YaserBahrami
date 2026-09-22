@@ -1,140 +1,198 @@
+<div align="center">
+
 # Yaser Bahrami
 
-**Senior Software Engineer · iOS · Backend · AI & Software Architecture**
+### Senior Software Engineer
 
-I’m a T-shaped software engineer with **10+ years of experience** across mobile, backend, software architecture, real-time systems, SDKs, CI/CD, and product development.
+**iOS · Backend · Software Architecture · AI-assisted Development**
 
-I started my career on the backend with **C# / .NET / ASP.NET**, then specialized deeply in Apple-platform development from 2017 onward. Today, most of my work sits at the intersection of **iOS engineering, architecture, product development, backend integration, and AI-assisted software development**.
+I build polished Apple-platform products and scalable software systems, combining deep mobile expertise with backend experience, architecture, product thinking, and modern AI-assisted engineering workflows.
 
-Based in **Istanbul, Türkiye**.
+<br>
 
-[Portfolio](https://bahrami.dev) · [Projects](https://bahrami.dev/projects) · [LinkedIn](https://www.linkedin.com/in/yaserbahrami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bahrami.dev-111111?style=for-the-badge&logo=safari&logoColor=white)](https://bahrami.dev)
+[![Projects](https://img.shields.io/badge/Projects-View_Work-111111?style=for-the-badge&logo=apple&logoColor=white)](https://bahrami.dev/projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaserbahrami)
 
----
+📍 Istanbul, Türkiye
 
-## What I work with
-
-### Apple platforms
-
-- **Swift 6**, SwiftUI, UIKit
-- iOS, iPadOS, tvOS
-- Structured Concurrency / async-await, Combine, RxSwift
-- AVFoundation, HLS and live/video streaming
-- FamilyControls, DeviceActivity, ManagedSettings
-- Core ML, Vision, OpenCV, NFC
-- XCTest, XCUITest
-
-### Architecture & engineering
-
-- Clean Architecture, MVVM, MVVM-C / Coordinator
-- SOLID, dependency injection, modular and reusable components
-- SDK and framework development
-- REST, GraphQL, WebSockets and real-time systems
-- Performance profiling, legacy modernization and large-codebase refactoring
-- CI/CD with Bitrise, Fastlane and GitHub Actions
-
-### Data, cloud & backend
-
-- SwiftData, Core Data, Realm, SQLite
-- CloudKit and iCloud sync
-- Firebase and AWS integrations
-- C#, ASP.NET Web API / MVC
-- Python for tooling, services and automation
-
-### AI-assisted development
-
-I actively use **LLMs and agentic development workflows** for implementation, architecture exploration, debugging, refactoring, test generation, documentation, code review, and technical decision-making.
-
-I treat AI as an engineering accelerator rather than a substitute for software design, verification, testing, and maintainability.
+</div>
 
 ---
 
-## Current product work
+## About
 
-I build and ship independent products across productivity, media, personal finance, lifestyle, and utilities. My current apps are designed for **iPhone and iPad**.
+I’m a **T-shaped software engineer with 10+ years of experience** across mobile, backend, software architecture, real-time systems, SDKs, CI/CD, and product development.
+
+I began my career with **C# / .NET / ASP.NET** backend development before specializing deeply in Apple platforms in 2017. Today my work sits at the intersection of **iOS engineering, software architecture, backend integration, product development, performance, and AI-enabled engineering workflows**.
+
+My focus is not only shipping features — it is building products and codebases that remain **maintainable, testable, scalable, and pleasant to evolve**.
+
+---
+
+## Featured products
+
+My current independent apps are designed for **iPhone and iPad**.
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### [NextOn](https://bahrami.dev/projects/nexton)
 
-A TV and movie tracker focused on upcoming releases, personal libraries, discovery, recommendations, and cross-device sync.
+**TV & Movie Tracker**
 
-**Engineering:** Swift, SwiftUI, CloudKit, TMDB integrations, recommendation systems, performance optimization.
+Track upcoming releases, manage a personal library, discover titles, and get better recommendations across devices.
+
+<sub>Swift · SwiftUI · CloudKit · TMDB · Recommendations · Performance</sub>
+
+</td>
+<td width="33%" valign="top">
 
 ### [Penny](https://bahrami.dev/projects/penny)
 
-A personal finance and budgeting app focused on understanding spending, planning budgets, tracking goals, and making everyday money management easier.
+**Personal Finance & Budgeting**
 
-**Engineering:** Swift, SwiftUI, financial data modeling, budgeting workflows, local persistence, native Apple-platform UX.
+Understand spending, organize budgets, follow financial goals, and make everyday money management clearer.
+
+<sub>Swift · SwiftUI · Financial Modeling · Budgeting · Local Persistence</sub>
+
+</td>
+<td width="33%" valign="top">
 
 ### [LevelOff](https://bahrami.dev/projects/leveloff)
 
-A screen-time reduction and focus app built around intentional sessions, routines, progress, and healthier device-use habits.
+**Focus & Screen-Time Reduction**
 
-**Engineering:** FamilyControls, DeviceActivity, ManagedSettings, App Groups, SwiftData, privacy-preserving system APIs.
+Intentional focus sessions, recurring routines, progress tracking, and healthier device-use habits.
+
+<sub>FamilyControls · DeviceActivity · ManagedSettings · SwiftData · App Groups</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### [MealoMarket](https://bahrami.dev/projects/mealomarket)
 
-A meal-planning and kitchen-organization app that connects weekly planning, shopping lists, pantry/fridge/freezer inventory, expiration tracking, and household sharing.
+**Meal & Kitchen Organizer**
 
-**Engineering:** Swift, SwiftUI, SwiftData, iCloud sync/sharing, native Apple-platform UX.
+Connect meal planning, shopping lists, kitchen inventory, expiration tracking, and household sharing.
+
+<sub>Swift · SwiftUI · SwiftData · iCloud Sync & Sharing</sub>
+
+</td>
+<td width="33%" valign="top">
 
 ### [TimeBuddy](https://bahrami.dev/projects/timebuddy)
 
-A time-zone comparison and meeting-planning app designed to make differences between cities immediately understandable.
+**Time-Zone Comparison**
 
-**Engineering:** Swift, SwiftUI, date/time calculation, localization, timeline-based planning.
+Compare cities, understand time differences instantly, and find better times for meetings across time zones.
 
-Other active product work includes **Humay**.
+<sub>Swift · SwiftUI · Date & Time · Localization · Timeline Planning</sub>
 
-See more at **[bahrami.dev/projects](https://bahrami.dev/projects)**.
+</td>
+<td width="33%" valign="top">
+
+### More products
+
+I also work on **Humay** and other independent product experiments spanning lifestyle, utilities, and personal software.
+
+**[Explore all projects →](https://bahrami.dev/projects)**
+
+</td>
+</tr>
+</table>
+
 ---
 
-## Experience highlights
+## Engineering stack
 
-My professional work has covered:
+### Apple platforms
 
-- Large-scale **live sports and video streaming**
-- VOD and tvOS products
-- Fashion e-commerce
-- Carpooling and location-aware applications
-- mPOS and mobile payments
-- NFC-enabled applications
-- Computer vision with OpenCV and Vision
-- Twilio/WebSocket real-time communication
-- Reusable SDKs, libraries and app infrastructure
-- Backend/API development and integration
-- Technical leadership, code review and engineering management
+`Swift 6` · `SwiftUI` · `UIKit` · `iOS` · `iPadOS` · `tvOS` · `async/await` · `Combine` · `RxSwift`
 
-### Recent roles
+`AVFoundation` · `HLS` · `FamilyControls` · `DeviceActivity` · `ManagedSettings` · `Core ML` · `Vision` · `NFC`
 
-- **Engineering Manager — TouchZen Media** · 2025–2026
-- **Senior iOS Developer — Saba Idea** · 2025–2026
-- **Independent Senior iOS Developer / Consultant** · 2020–2025
-- **Senior iOS Developer — Turkuvaz Media Digital** · 2020
-- **Senior iOS Developer — MeshAI** · 2018–2020
-- **iOS Developer — Rekab** · 2018–2019
-- **iOS Developer — Shatel** · 2017–2018
-- **iOS Developer — RaadSense** · 2017–2018
+### Architecture & systems
+
+`Clean Architecture` · `MVVM` · `MVVM-C` · `Coordinator` · `SOLID` · `Dependency Injection`
+
+`REST` · `GraphQL` · `WebSockets` · `SDK Development` · `Modularization` · `Performance Profiling`
+
+### Data, cloud & backend
+
+`SwiftData` · `Core Data` · `Realm` · `SQLite` · `CloudKit` · `iCloud` · `Firebase` · `AWS`
+
+`C#` · `.NET` · `ASP.NET` · `Python`
+
+### Quality & delivery
+
+`XCTest` · `XCUITest` · `GitHub Actions` · `Bitrise` · `Fastlane` · `TestFlight`
+
+---
+
+## AI-assisted engineering
+
+I actively use **LLMs and agentic development workflows** across implementation, architecture exploration, debugging, refactoring, testing, documentation, code review, and technical decision-making.
+
+AI is an engineering accelerator in my workflow — backed by **software design, verification, automated testing, code review, and maintainability standards**.
+
+---
+
+## Experience
+
+| Role | Company / Work | Period |
+| --- | --- | ---: |
+| **Engineering Manager** | TouchZen Media | 2025–2026 |
+| **Senior iOS Developer** | Saba Idea | 2025–2026 |
+| **Senior iOS Developer / Consultant** | Independent | 2020–2025 |
+| **Senior iOS Developer** | Turkuvaz Media Digital | 2020 |
+| **Senior iOS Developer** | MeshAI | 2018–2020 |
+| **iOS Developer** | Rekab | 2018–2019 |
+| **iOS Developer** | Shatel | 2017–2018 |
+| **iOS Developer** | RaadSense | 2017–2018 |
 
 Before specializing in iOS, I worked in backend/software development with **C# and ASP.NET**.
 
+### Selected engineering domains
+
+**Live sports & video streaming** · VOD · tvOS · E-commerce · Carpooling · mPOS & mobile payments · NFC · Computer vision · Real-time communication · SDKs & frameworks · Backend APIs · Legacy modernization
+
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## Languages
 
-- Azerbaijani — Native
-- Farsi — Native
-- English — Fluent
-- Turkish — Fluent
+- **Azerbaijani** — Native
+- **Farsi** — Native
+- **English** — Fluent
+- **Turkish** — Fluent
 
----
+</td>
+<td width="50%" valign="top">
 
 ## Education
 
-**B.Sc. Computer Engineering**  
-K. N. Toosi University of Technology · 2011–2017
+**B.Sc. Computer Engineering**
+
+K. N. Toosi University of Technology  
+2011–2017
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Focus
+<div align="center">
 
-I’m most interested in work where I can combine deep mobile expertise with broader software-engineering responsibilities: **architecture, backend integration, performance, developer experience, AI-enabled workflows, and product ownership**.
+### Building software across the stack, with deep expertise on Apple platforms.
+
+**[bahrami.dev](https://bahrami.dev)**
+
+</div>
