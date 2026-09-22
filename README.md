@@ -107,30 +107,55 @@ I also work on **Humay** and other independent product experiments spanning life
 
 ---
 
-## Engineering stack
+## 💻 Tech stack
 
-### Apple platforms
+### Apple & mobile
 
-`Swift 6` · `SwiftUI` · `UIKit` · `iOS` · `iPadOS` · `tvOS` · `async/await` · `Combine` · `RxSwift`
+![Swift](https://img.shields.io/badge/Swift_6-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-111111?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=apple&logoColor=white)
+![iPadOS](https://img.shields.io/badge/iPadOS-111111?style=for-the-badge&logo=apple&logoColor=white)
+![tvOS](https://img.shields.io/badge/tvOS-111111?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-`AVFoundation` · `HLS` · `FamilyControls` · `DeviceActivity` · `ManagedSettings` · `Core ML` · `Vision` · `NFC`
+`async/await` · `Combine` · `AVFoundation` · `HLS` · `FamilyControls` · `DeviceActivity` · `ManagedSettings` · `Core ML` · `Vision` · `NFC`
 
-### Architecture & systems
+### Backend, cloud & data
 
-`Clean Architecture` · `MVVM` · `MVVM-C` · `Coordinator` · `SOLID` · `Dependency Injection`
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-147EFB?style=for-the-badge&logo=icloud&logoColor=white)
 
-`REST` · `GraphQL` · `WebSockets` · `SDK Development` · `Modularization` · `Performance Profiling`
+`SwiftData` · `Core Data` · `Realm` · `REST APIs` · `WebSockets` · `iCloud Sync`
 
-### Data, cloud & backend
+### Architecture & engineering
 
-`SwiftData` · `Core Data` · `Realm` · `SQLite` · `CloudKit` · `iCloud` · `Firebase` · `AWS`
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-24292F?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-2F81F7?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-555555?style=for-the-badge)
+![SDK Development](https://img.shields.io/badge/SDK_Development-111111?style=for-the-badge&logo=apple&logoColor=white)
 
-`C#` · `.NET` · `ASP.NET` · `Python`
+`MVVM-C` · `Coordinator` · `Modularization` · `Performance Profiling` · `Legacy Modernization` · `Real-time Systems`
 
-### Quality & delivery
+### Testing & delivery
 
-`XCTest` · `XCUITest` · `GitHub Actions` · `Bitrise` · `Fastlane` · `TestFlight`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=111111)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
 
+`XCTest` · `XCUITest` · `Code Review` · `CI/CD` · `Automated Testing`
 ---
 
 ## AI-assisted engineering
