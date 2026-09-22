@@ -59,6 +59,18 @@ A TV and movie tracker focused on upcoming releases, personal libraries, discove
 
 **Engineering:** Swift, SwiftUI, CloudKit, TMDB integrations, recommendation systems, performance optimization.
 
+### [Penny](https://bahrami.dev/projects/penny)
+
+A personal finance and budgeting app focused on understanding spending, planning budgets, tracking goals, and making everyday money management easier.
+
+**Engineering:** Swift, SwiftUI, financial data modeling, budgeting workflows, local persistence, native Apple-platform UX.
+
+### [LevelOff](https://bahrami.dev/projects/leveloff)
+
+A screen-time reduction and focus app built around intentional sessions, routines, progress, and healthier device-use habits.
+
+**Engineering:** FamilyControls, DeviceActivity, ManagedSettings, App Groups, SwiftData, privacy-preserving system APIs.
+
 ### [MealoMarket](https://bahrami.dev/projects/mealomarket)
 
 A meal-planning and kitchen-organization app that connects weekly planning, shopping lists, pantry/fridge/freezer inventory, expiration tracking, and household sharing.
@@ -71,16 +83,9 @@ A time-zone comparison and meeting-planning app designed to make differences bet
 
 **Engineering:** Swift, SwiftUI, date/time calculation, localization, timeline-based planning.
 
-### [LevelOff](https://bahrami.dev/projects/leveloff)
-
-A screen-time reduction and focus app built around intentional sessions, routines, progress, and healthier device-use habits.
-
-**Engineering:** FamilyControls, DeviceActivity, ManagedSettings, App Groups, SwiftData, privacy-preserving system APIs.
-
-Other active product work includes **Penny** and **Humay**.
+Other active product work includes **Humay**.
 
 See more at **[bahrami.dev/projects](https://bahrami.dev/projects)**.
-
 ---
 
 ## Experience highlights
